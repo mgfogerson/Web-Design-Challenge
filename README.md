@@ -1,3 +1,5 @@
 # Web-Design-Challenge
 
 For this project, I used the dataset and charts gathered from the API project, assembling them into an HTML site using HTML and CSS. To make my site more navigable, the Navbar component from Bootstrap was used, as well as a sidebar from W3School that sized nicely with the landing page. Pandas was used to turn my weather data csv into a table, which then used Bootstrap components to become a bounded, responsive scrolling table with color applied. This project gave me a good glimpse into the very basics of web design, while exposing me to tools for creating my own websites and the skills needed to find and refit existing code for my projects. For Bootstrap components, this ability to reuse code allows for powerful tools to be deployed without needing to be fully realized in HTML and CSS, saving time. Deploying the site using Github gives me a first experience into publishing a webpage that I am sole author of. 
+
+<img width="1310" alt="Screen Shot 2021-11-17 at 4 52 32 PM" src="https://user-images.githubusercontent.com/79113826/142328723-5bb9faef-7df5-4663-9b07-cb9a84a220ff.png">
